@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/waiwah/.dotnet/store/|arch|/|tfm|",
+      "/Users/waiwah/.nuget/packages"
+    ]
+  }
+}
